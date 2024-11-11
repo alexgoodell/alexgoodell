@@ -6,7 +6,7 @@ Hi. I’m Alex. I am an anesthesiologist and internist who works at Stanford Med
 - design thinking in healthcare
 - open-source software
   
-I am currently a fellow in the [@stanfordaimlab](https://github.com/stanfordaimlab) where I focus on building tools to improve the user experience of patients and doctors.
+I am currently a fellow in the [Department of Anesthesiology](https://github.com/stanford-anesthesia) at Stanford University where I focus on building tools to improve the user experience of patients and doctors.
 
 My current projects center around evaluation of large language models in clinical settings, such as [evaluating the calculation abilities of ChatGPT](https://github.com/stanfordaimlab/llm-as-clinical-calculator/), testing LLMs knowledge of anesthesia, or [designing of human evaluation solutions.](https://alx.gd/archive).
 
